@@ -14,7 +14,10 @@ Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M.
 
 
 
-<!-- **Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">Teleology and generics.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/kh3xa/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> -->
+**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span href="{{ '/assets/pdf/Teleology and generics.pdf' | prepend: site.baseurl | prepend: site.url }}" style="color: green">Teleology and generics.</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/teleology_generics" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
+Zhang, S., She, S., Gerstenberg, T., & **Rose, D.** (2023). <span href="{{ '/assets/pdf/You are what you’re for? Essentialist categorization in large language models.pdf' | prepend: site.baseurl | prepend: site.url }}" style="color: green">You are what you’re for? Essentialist categorization in large language models.</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/gazyt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
 
 #### **2024**
 
