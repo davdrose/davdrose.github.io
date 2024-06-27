@@ -14,7 +14,7 @@ Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M.
 
 
 
-**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">Teleology and generics.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/kh3xa/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+<!-- **Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">Teleology and generics.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/kh3xa/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> -->
 
 #### **2024**
 
