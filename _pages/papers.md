@@ -14,9 +14,12 @@ Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M.
 
 
 
-**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span href="{{ '/assets/pdf/Teleology and generics.pdf' | prepend: site.baseurl | prepend: site.url }}" style="color: green">Teleology and generics.</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/teleology_generics" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">[Teleology and generics.]({{ '/assets/pdf/Teleology and generics.pdf' | prepend: site.baseurl | prepend: site.url }})</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/teleology_generics" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 
-Zhang, S., She, S., Gerstenberg, T., & **Rose, D.** (2023). <span href="{{ '/assets/pdf/You are what you’re for? Essentialist categorization in large language models.pdf' | prepend: site.baseurl | prepend: site.url }}" style="color: green">You are what you’re for? Essentialist categorization in large language models.</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/gazyt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+Zhang, S., She, S., Gerstenberg, T., & **Rose, D.** (2023). <span style="color: green">[You are what you’re for? Essentialist categorization in large language models.]('/assets/pdf/You are what you’re for? Essentialist categorization in large language models.pdf' | prepend: site.baseurl | prepend: site.url)</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/gazyt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
+**Rose, D.**, Jaramillo, S., Nichols, S., & Horne, Z. (2022). [<span style="color: green">Teleological essentialism across development.</span>]({{ '/assets/pdf/Teleological essentialism across development.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44). <a href="https://osf.io/dqjry/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
 
 
 #### **2024**
