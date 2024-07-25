@@ -8,102 +8,118 @@ nav_order: 1
 
 #### **PREPRINTS**
 
-Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. <span style="color: green">From artifacts to human lives: Investigating the domain-generality of judgments about purposes.</span> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
+Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. <span style="color: #00ab37">From artifacts to human lives: Investigating the domain-generality of judgments about purposes.</span> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
 
 #### **PUBLICATIONS**
 
 
 
-**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">[Teleology and generics.]({{ '/assets/pdf/Teleology and generics.pdf' | prepend: site.baseurl | prepend: site.url }})</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/teleology_generics" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). [<span style="color: #00ab37">Teleology and generics.</span>]({{ '/assets/pdf/Teleology and generics.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/teleology_generics" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 
-Zhang, S., She, S., Gerstenberg, T., & **Rose, D.** (2023). <span style="color: green">[You are what you’re for? Essentialist categorization in large language models.]('/assets/pdf/You are what you’re for? Essentialist categorization in large language models.pdf' | prepend: site.baseurl | prepend: site.url)</span> In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/gazyt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+Zhang, S., She, S., Gerstenberg, T., & **Rose, D.** (2023). [<span style="color: #00ab37">You are what you’re for? Essentialist categorization in large language models.</span>]({{'/assets/pdf/You are what you’re for? Essentialist categorization in large language models.pdf' | prepend: site.baseurl | prepend: site.url}}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45). <a href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/gazyt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 
-**Rose, D.**, Jaramillo, S., Nichols, S., & Horne, Z. (2022). [<span style="color: green">Teleological essentialism across development.</span>]({{ '/assets/pdf/Teleological essentialism across development.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44). <a href="https://osf.io/dqjry/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+**Rose, D.**, Jaramillo, S., Nichols, S., & Horne, Z. (2022). [<span style="color: #00ab37">Teleological essentialism across development.</span>]({{ '/assets/pdf/Teleological essentialism across development.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44). <a href="https://osf.io/dqjry/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
+**Rose, D.**, Sievers, E., & Nichols, S. (2021). <span style="color: #00ab37">Cause and burn.</span> *Cognition, 207*(104517). <a href="https://osf.io/ebd23/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
+**Rose, D.** (2021). <span style="color: #00ab37">Mentalizing objects.</span> In T. Lombrozo, S. Nichols & J. Knobe (eds.), *Oxford Studies in Experimental Philosophy, Volume 4.* Oxford University Press.
+
+Buckwalter, W., **Rose, D.**, & Turri, J. (2021). <span style="color: #00ab37">Impossible intentions.</span> *American Philosophical Quarterly*, 58(4), 319-332.
+
+Vekony, R., Mele, A., & **Rose, D.** (2021). <span style="color: #00ab37">Intentional action without knowledge.</span> *Synthese, 199(1), 1231-1243.*
+
+**Rose, D.**, & Nichols, S. (2020). <span style="color: #00ab37">Teleological essentialism: Generalized.</span> *Cognitive Science, 44*(3), e12818.
+
+Nadelhoffer, T., **Rose, D.**, Buckwalter, W., & Nichols, S. (2020). <span style="color: #00ab37">Natural Compatibilism, indeterminism and intrusive metaphysics.</span> *Cognitive Science, 44*(8), e12873. <a href="https://osf.io/4z6r2/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
+
+Simpson, A., Alicke, M., Gordon, E., & **Rose, D.** (2020). <span style="color: #00ab37">The reasonably prudent person, or me? </span>*Journal of Applied Social Psychology, 50*(5), 313-323.
+
+**Rose, D.**, Machery, E., Stich, S., Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., Cheon, H., Cho, I., Cohnitz, D., Cova, F., Dranseika, V., Eraña Lagos, A., Ghadakpour, L.,	Grinberg, M., Hannikainen, I., Hashimoto, T.,Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S., Olivola, C., Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S.,Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2020). <span style="color: #00ab37">The ship of Theseus puzzle.</span> In T. Lombrozo, S. Nichols & J. Knobe (eds.), *Oxford Studies in Experimental Philosophy, Volume 3*. Oxford University Press.
+
+**Rose, D.** (2019). <span style="color: #00ab37">Cognitive science for the revisionary metaphysician.</span> In A. Goldman & B. McLaughlin (Eds.), *Metaphysics and Cognitive Science*. Oxford University Press.
+
+Hannikainen, I., Machery, E., **Rose, D.**, Stich, S., Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., Cheon, H., Cho, I., Cohnitz, D., Cova, F., Dranseika, V., Eraña Lagos, A., Ghadakpour, L., Grinberg, M., Hashimoto, T., Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S., Olivola, C., Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S., Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2019). <span style="color: #00ab37">For whom does determinism undermine moral responsibility? Surveying the conditions for free will across cultures.</span> *Frontiers in Psychology: Cognitive Science*, 10, 2428 – 2441.
+
+Stich, S., **Rose, D.**, & Machery, E. (2019).  <span style="color: #00ab37">Relativism and experimental philosophy.</span> In M. Kusch (ed.), *The Routledge Handbook of Philosophy of Relativism.* Routledge. <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781351052306-58/relativism-experimental-philosophy-stephen-stich-david-rose-edouard-machery" target="_blank" title="doi"><i class="ai ai-doi"></i></a> (NO PAPER IN FOLDER)
+
+Petrik, J., & **Rose, D.** (2019). <span style="color: #00ab37">Spinoza’s dream argument: A response to introspective arguments for Freedom.</span> *Journal of Consciousness Studies, 26*(11-12), 157-181. <a href="https://www.ingentaconnect.com/content/imp/jcs/2019/00000026/f0020011/art00007" target="_blank" title="doi"><i class="ai ai-doi"></i></a> (NO PAPER IN FOLDER)
+
+**Rose, D.**, & Nichols, S. (2019). <span style="color: #00ab37">Teleological essentialism.</span> *Cognitive Science*, 43(4), e12725.
+
+**Rose, D.**, & Nichols, S. (2019). <span style="color: #00ab37">From punishment to universalism.</span> *Mind & Language*, 34(1), 59-72.
+
+**Rose, D.**, Machery, E., Stich, S., Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., Cheon, H., Cho, I., Cohnitz, D., Cova, F., Dranseika, V., Eraña Lagos, A., Ghadakpour, L., Grinberg, M., Hannikainen, I., Hashimoto, T.,  Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S., Olivola, C., Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S., Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2019). <span style="color: #00ab37">Nothing at stake in knowledge.</span> *Noûs*, 53(1), 224-247.
+
+Rogers, R., Alicke, M. D., Taylor, S. G., **Rose, D.**, Davis, T. L., & Bloom, D. (2019). <span style="color: #00ab37">Causal deviance and the ascription of intent and blame.</span> *Philosophical Psychology*, 32(3), 404-427.
+
+Cova, F., Olivola, C., Machery, E., Stich, S., **Rose, D.**, Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., Cheon, H., Cho, I., Cohnitz, D., Dranseika, V., Eraña Lagos, A., Ghadakpour, L., Grinberg, M., Hannikainen, I., Hashimoto, T., Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S.,  Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S., Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2019). <span style="color: #00ab37">De Pulchritudine non est Disputandum? A cross‐cultural investigation of the alleged intersubjective validity of aesthetic judgment.</span> *Mind & Language*, 34(3), 317-338.
+
+**Rose, D.**, Schaffer, J., & Tobia, K. (2018). <span style="color: #00ab37">Folk teleology drives persistence judgments.</span> *Synthese*, 1-19.
+
+McLaughlin, B., & **Rose, D.** (2018). <span style="color: #00ab37">On the matter of robot minds.</span> In T. Lombrozo, S. Nichols & J. Knobe (Eds.), *Oxford Studies in Experimental Philosophy, Volume 2* (pp. 316-332). Oxford 
+University Press.\*
+
+Turri, J., **Rose, D.**, & Buckwalter, W. (2018). <span style="color: #00ab37">Choosing and refusing: doxastic voluntarism and folk psychology.</span> *Philosophical Studies*, 175(10), 2507-2537.
+
+Machery, E., Stich, S. **Rose, D.**, Chatterjee, A., Karasawa, K., Struchiner, N., Sirker, S., Usui, N., 
+Hashimoto, T. (2018). <span style="color: #00ab37">Gettier was framed.</span> In M. Mizumoto, E. McCready & S. Stich (Eds.), 
+*Epistemology for the Rest of the World* (pp. 123-148). Oxford University Press.\*
+
+**Rose, D.** (2017). <span style="color: #00ab37">Folk intuitions of actual causation: a two-pronged debunking explanation.</span> *Philosophical Studies*, 174(5), 1323-1361.
+
+**Rose, D.**, & Schaffer, J. (2017). <span style="color: #00ab37">Folk mereology is teleological.</span> *Noûs*, 51(2), 238-270. Expanded version reprinted in D. Rose (Ed.), *Experimental Metaphysics* (pp. 135-186). Bloomsbury Press.
+
+**Rose, D.**, Buckwalter, W., & Nichols, S. (2017). <span style="color: #00ab37">Neuroscientific prediction and the intrusion of intuitive metaphysics.</span> *Cognitive Science*, 41(2), 482-502.
+
+**Rose, D.**, Machery, E., Stich, S., Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., Cheon, H., Cho, I., Cohnitz, D., Cova, F., Dranseika, V., Eraña Lagos, A., Ghadakpour, L.,   Grinberg, M., Hannikainen, I., Hashimoto, T., Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S., Olivola, C., Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S., Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2017). <span style="color: #00ab37">Behavioral circumscription and the folk psychology of belief: A study in ethno‐mentalizing.</span> *Thought: A Journal of Philosophy*, 6(3), 193-203. [[preprint]]()
+
+Machery, E., Stich, S. **Rose, D.**, Chatterjee, A., Karasawa, K., Struchiner, N., Sirker, S., Usui, N., Hashimoto, T. (2017). <span style="color: #00ab37">Gettier across cultures.</span> *Noûs*, 51(3), 645-664.
+
+Machery, E., Stich, S., **Rose, D.**, Alai, M., Adriano, A., Berniunas, R., Buchtel, E., Chatterjee, A., 
+Cheon, H., Cho, I., Cohnitz, D., Cova, F., Dranseika, V., Eraña Lagos, A., Ghadakpour, L.,   Grinberg, M., Hannikainen, I., Hashimoto, T., Horowitz, A., Hristova, E., Jraissati, Y., Kadreva, V., Karasawa, K., Kim, H., Kim, Y., Lee, M., Mauro, C., Mizumoto, M., Moruzzi, S., Olivola, C., Ornelas, J., Osimani, B., Rosas Lopez, A., Romero, C., Sangoi, M., Sereni, A., Songhorian, S., Sousa, P., Struchiner, N., Tripodi, V., Usui, N., Vázquez del Mercado, A., Volpe, G., Vosgerichian, H., Zhang, X., & Zhu, J. (2017). <span style="color: #00ab37">The Gettier intuition from South America to Asia.</span> *Journal of Indian Council of Philosophical Research*, 34(3), 517-541.\*
+
+Livengood, J., Sytsma, J., & **Rose, D.** (2017). <span style="color: #00ab37">Following the FAD: Folk attributions and theories of actual causation.</span> *Review of Philosophy and Psychology*, 8(2), 273-294. [[preprint]]()
+
+Livengood, J., & **Rose, D.** (2016). <span style="color: #00ab37">Experimental philosophy and causal attribution.</span> In J. Sytsma & W. Buckwalter (Eds.), *A Companion to Experimental Philosophy* (pp. 434-449). Wiley-Blackwell.\*
+
+Turri, J., Buckwalter, W., & **Rose, D.** (2016). <span style="color: #00ab37">Actionability judgments cause knowledge judgments. </span>*Thought: A Journal of Philosophy*, 5(3), 212-222.
+
+**Rose, D.** (2015). <span style="color: #00ab37">Persistence through function preservation.</span> *Synthese*, 192(1), 97-146.
+
+**Rose, D.** (2015). <span style="color: #00ab37">Belief is prior to knowledge.</span> *Episteme*, 12(3), 385-399.
+
+Buckwalter, W., **Rose, D.**, & Turri, J. (2015). <span style="color: #00ab37">Belief through thick and thin.</span> *Noûs*, 49(4), 748-775.
+
+**Rose, D.**, Buckwalter, W., & Turri, J. (2014). <span style="color: #00ab37">When words speak louder than actions: Delusion, belief, and the power of assertion.</span> *Australasian Journal of Philosophy*, 92(4), 683-700.
+
+Danks, D., **Rose, D.**, & Machery, E. (2014). <span style="color: #00ab37">Demoralizing causation.</span> *Philosophical Studies*, 171(2), 251-277.
+
+**Rose, D.**, & Danks, D. (2013). <span style="color: #00ab37">In defense of a broad conception of experimental philosophy.</span> *Metaphilosophy*, 44(4), 512-532.
+
+**Rose, D.**, & Nichols, S. (2013). <span style="color: #00ab37">The lesson of bypassing.</span> *Review of Philosophy and Psychology*, 4(4), 599-619. [[preprint]]()
+
+**Rose, D.**, & Schaffer, J. (2013). <span style="color: #00ab37">Knowledge entails dispositional belief.</span> *Philosophical Studies*, 166(1), 19-50.
+
+Machery, E., & **Rose, D.** (2013). <span style="color: #00ab37">Experimental philosophy.</span> In H. Pashler (Ed.), *Encyclopedia of the Mind* (pp. 329-331). SAGE Publications. <a href="https://philarchive.org/rec/MACEP-3" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
+(NO PAPER IN FOLDER)
+
+Alicke, M., Gordon, E., & **Rose, D.** (2013). <span style="color: #00ab37">Hypocrisy: what counts?.</span> *Philosophical Psychology*, 26(5), 673-701.
+
+**Rose, D.**, & Danks, D. (2012). <span style="color: #00ab37">Causation: Empirical trends and future directions.</span> *Philosophy Compass*, 7(9), 643-653.
+
+**Rose, D.**, Livengood, J., Sytsma, J., & Machery, E. (2012). <span style="color: #00ab37">Deep trouble for the deep self.</span> *Philosophical Psychology*, 25(5), 629-646.
+
+Alicke, M. D., & **Rose, D.** (2012). <span style="color: #00ab37">Culpable control and causal deviance.</span> *Social and Personality Psychology Compass*, 6(10), 723-735.
+
+Sytsma, J., Livengood, J., & **Rose, D.** (2012). <span style="color: #00ab37">Two types of typicality: Rethinking the role of statistical typicality in ordinary causal attributions.</span> *Studies in History and Philosophy of Science
+Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(4), 814-
+820.
+
+Alicke, M. D., **Rose, D.**, & Bloom, D. (2011). <span style="color: #00ab37">Causation, norm violation, and culpable control.</span> *The Journal of Philosophy*, 108(12), 670-696. Reprinted in J. Knobe & S. Nichols (Eds.), *Experimental Philosophy, Volume 2* (pp. 229-252) Oxford University Press.
+
+Alicke, M., & **Rose, D.** (2010). <span style="color: #00ab37">Culpable control or moral concepts?</span> *Behavioral and Brain Sciences*, 33(4), 330-331. <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/culpable-control-or-moral-concepts/A576EDAFE2E9086EDE5CF157A1063119?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
+(NO PAPER IN FOLDER)
 
 
-
-#### **2024**
-
-Weaver, H.\*, **Zettersten, M.\***, & Saffran, J. (2024).  [<span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span>](https://mzettersten.github.io/assets/pdf/Weaver_Zettersten_Saffran_Child_Development_2024.pdf) *Child Development*. \*equal authorship <a href="http://doi.org/10.1111/cdev.14120" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
-
-**Zettersten, M.\***, Cox, C.M.M.\*, Bergmann, C.\*, Tsui, A.S.M., Soderstrom, M., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (2024). [<span style="color: #00ab37">Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2024_Open_Mind.pdf) *Open Mind, 8*, 439-461. \*equal authorship <a href="https://osf.io/amj7u/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/christinabergmann/IDSPreference_ManyBabiesMeta" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/etqs7){:target="\_blank"}
-
-Alessandroni, N., Altschul, D., Bazhydai, M., Byers-Heinlein, K., Elsherif, M., Gjoneska, B., Huber, L., Mazza, V., Miller, R., Nawroth, C., Pronizius, E., Qadri, M.A.J., Šlipogor, V., Soderstrom, M., Stevens, J.R., Visser, I., Williams, M., **Zettersten, M.**, & Prétôt, L. (2024). [<span style="color: #00ab37">Comparative cognition needs Big Team Science: How large-scale collaborations will unlock the future of the field.</span>](https://mzettersten.github.io/assets/pdf/CCBR-vol19-pp067-072-Alessandroni.pdf) *Comparative Cognition and Behavior Reviews, 19*, 67–72. [[preprint]](https://psyarxiv.com/rynvu){:target="\_blank"}
-
-**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (2024). [<span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2024_child_development.pdf) *Child Development, 95*(2), 497-514. <a href="https://doi.org/10.1111/cdev.14008" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
-
-#### **2023**
-
-**Zettersten, M.**, Yurovsky, D., Xu, T. L., Uner, S., Tsui, A.S.T., Schneider, R. M., Saleh, A. N., Meylan, S. C., Marchman, V., Mankewitz, J., MacDonald, K., Long, B., Lewis, M., Kachergis, G., Handa, K., deMayo, B., Carstensen, A., Braginsky, M., Boyce, V., Bhatt, N., Bergey, C. A., & Frank, M.C. (2023). [<span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span>](https://mzettersten.github.io/assets/pdf/peekbank_brm_paper_final.pdf) *Behavior Research Methods, 55*, 2485-2500. <a href="https://doi.org/10.3758/s13428-022-01906-4" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
-
-#### **2022**
-
-Koranda, M., **Zettersten, M.**, & MacDonald, M. (2022). [<span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span>](https://mzettersten.github.io/assets/pdf/Koranda_et_al_2022.pdf) *Psychological Science, 33*(9), 1440–1451. <a href="https://doi.org/10.1177/09567976221089603" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
-
-**Zettersten, M.**, Pomper, R., & Saffran, J. (2022). [<span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Pomper_Saffran_2022.pdf) *Infant and Child Development*, e2326. <a href="https://doi.org/10.1002/icd.2326" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
-
-Wojcik, E., **Zettersten, M.**, &  Benitez, V. (2022). [<span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>](https://mzettersten.github.io/assets/pdf/Wojcik_Zettersten_Benitez_2022.pdf) *WIREs Cognitive Science, 13*(4), e1596. <a href="https://doi.org/10.1002/wcs.1596" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
-
-Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., **Zettersten, M.** (in press). [<span style="color: #00ab37">Improving the generalizability of infant psychological research: The ManyBabies model.</span>](https://mzettersten.github.io/assets/pdf/ManyBabies_BBS_commentary.pdf) *Behavioral and Brain Sciences, 45*, E35. [commentary on The generalizability crisis, by Tal Yarkoni] <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://psyarxiv.com/8vwbf){:target="\_blank"}
-
-Woodard, K., **Zettersten, M.**, & Pollak, S.D. (2022). [<span style="color: #00ab37">The representation of emotion knowledge across development.</span>](https://mzettersten.github.io/assets/pdf/Woodard_Zettersten_Pollak_2021.pdf){:target="\_blank"} *Child Development, 93*(3), e237-e250. <a href="https://doi.org/10.1111/cdev.13716" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-#### **2021**
-
-Lupyan, G., & **Zettersten, M.** (2021). <span style="color: #00ab37">Does vocabulary help structure the mind?</span> In Sera, M., & Koenig, M. (Eds.). *Minnesota Symposia on Child Psychology: Human Communication: Origins, Mechanisms, and Functions, Volume 40* (pp. 160-199). Hoboken, NJ: John Wiley & Sons. <a href="https://doi.org/10.1002/9781119684527.ch6" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://github.com/mzettersten/vocab-mind-2020" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/b74u9/){:target="\_blank"}
-
-Santolin, C., Garcia-Castro, G., **Zettersten, M.**, Sebastian-Galles, N., & Saffran, J. (2021). [<span style="color: #00ab37">Experience with research paradigms relates to infants’ direction of preference.</span>](https://mzettersten.github.io/assets/pdf/Santolin_et_al_2021.pdf){:target="\_blank"} *Infancy, 26*(1), 39-46. <a href="https://doi.org/10.1111/infa.12372" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/g95ub/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/gongcastro/Flip" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/xgvbh/){:target="\_blank"}
-
-**Zettersten, M.**, & Saffran, J. (2021). [<span style="color: #00ab37">Sampling to learn words: Adults and children sample words that reduce referential ambiguity.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Saffran_2020.pdf){:target="\_blank"} *Developmental Science, 24*(3), e13064. <a href="https://doi.org/10.1111/desc.13064" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/udmvh/?view_only=b9b8a986fd3a4235a073ec35d70a2266" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/crossAct" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-#### **2020**
-
-​Benitez, V., **Zettersten, M.**, & Wojcik, E. (2020). [<span style="color: #00ab37">The temporal structure of naming events differentially affects children’s and adults’ statistical word-referent learning.</span>](https://mzettersten.github.io/assets/pdf/Benitez_Zettersten_Wojcik_2020.pdf){:target="\_blank"} *Journal of Experimental Child Psychology, 200*, 104961. <a href="https://doi.org/10.1016/j.jecp.2020.104961" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/2hmxr/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/crossSitRep" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/yh84w){:target="\_blank"}
-
-Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, K., Kline, M., …, **Zettersten, M.**, & Soderstrom, M. (2020). [<span style="color:#00ab37">Building a collaborative Psychological Science: Lessons from ManyBabies 1.</span>](https://mzettersten.github.io/assets/pdf/Byers-Heinlein et al. (2020).pdf){:target="\_blank"} *Canadian Psychology/Psychologie canadienne, 61*(4), 349-363. <a href="https://doi.org/10.1037/cap0000216" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://psyarxiv.com/dmhk2/){:target="\_blank"} 
-
-**Zettersten, M.**, Potter, C., & Saffran, J. (2020). [<span style="color:#00ab37">Tuning in to non-adjacencies: Exposure to learnable patterns supports discovering otherwise difficult structures.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Potter_Saffran_2020.pdf){:target="\_blank"} *Cognition, 202*, 104283. <a href="https://doi.org/10.1016/j.cognition.2020.104283" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/m3wn4/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/apg-non-adjacent" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-The ManyBabies Consortium (2020). [<span style="color: #00ab37">Quantifying sources of variability in infancy research using the infant-directed speech preference.</span>](https://mzettersten.github.io/assets/pdf/ManyBabies1.pdf){:target="\_blank"} *Advances in Methods and Practices in Psychological Science, 3*(1), 24–52. <a href="https://doi.org/10.1177/2515245919900809" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/re95x/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb1-analysis-public" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-**Zettersten, M.**, Schonberg, C., & Lupyan, G. (2020). [<span style="color: #00ab37">What does a radical exemplar view not predict? A commentary on Ambridge (2020).</span>](https://mzettersten.github.io/assets/pdf/ambridge_commentary_final_article.pdf){:target="\_blank"} *First Language, 40*, 636-639. <a href="https://doi.org/10.1177/0142723720903895" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
-
-**Zettersten, M.**, & Lupyan, G. (2020). [<span style="color: #00ab37">Finding categories through words: More nameable features improve category learning.</span>](https://mzettersten.github.io/assets/pdf/zettersten_lupyan_2020.pdf){:target="\_blank"} *Cognition, 196*, 104135. <a href="https://doi.org/10.1016/j.cognition.2019.104135" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/fmhku/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/uz2m9/){:target="\_blank"}
-
-#### **2019**
-
-Lewis, M., **Zettersten, M.**, & Lupyan, G. (2019). [<span style="color: #00ab37">Distributional semantics as a source of visual knowledge.</span>](https://mzettersten.github.io/assets/pdf/Lewis_Zettersten_Lupyan_2019_PNAScomment.pdf){:target="\_blank"} *Proceedings of the National Academy of Sciences, 116*(39), 19237-19238. <a href="https://doi.org/10.1073/pnas.1910148116" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://github.com/mllewis/keb_2019_reanalysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://psyarxiv.com/cau95){:target="\_blank"}[[SI]](https://rpubs.com/mll/kebcommentarySI){:target="\_blank"}
-
-**Zettersten, M.** (2019). [<span style="color: #00ab37">Learning by predicting: How predictive processing informs language development.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_learning_by_predicting_2019.pdf){:target="\_blank"} In Busse, B., & Moehlig-Falke, R. (Eds.). *Patterns in Language and Linguistics: New Perspectives on a Ubiquitous Concept* (pp. 255-288). Berlin: Mouton de Gruyter. <a href="https://doi.org/10.1515/9783110596656-010" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
-
-#### **2018**
- 
-**Zettersten, M.**, Wojcik, E. W., Benitez, V., & Saffran, J. R. (2018). [<span style="color: #00ab37">The company objects keep: Linking referents together during cross-situational word learning.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2018.pdf){:target="\_blank"} *Journal of Memory & Language, 99*, 62-73. <a href="https://doi.org/10.1016/j.jml.2017.11.001" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://github.com/mzettersten/crossSit" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
-
-#### **2014**
-
-Hoehl, S., **Zettersten, M.**, Schleihauf, H., Graetz, S., & Pauen, S. (2014). [<span style="color: #00ab37">The role of social interaction and pedagogical cues for eliciting and reducing overimitation in preschoolers.</span>](https://mzettersten.github.io/assets/pdf/2014_Hoehl_JECP.pdf){:target="\_blank"} *Journal of Experimental Child Psychology, 122*, 122-133. <a href="https://doi.org/10.1016/j.jecp.2013.12.012" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
-
-### **PEER-REVIEWED PROCEEDINGS PAPERS**
-
-Plate, R, Perkins, E. R., Waller, R., & **Zettersten, M.** (2024). <span style="color: #00ab37">Learning and generalizing associations between social cues and outcomes. </span> *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/emogo" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/vkd7t/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/hqcxm){:target="\_blank"}
-
-**Zettersten, M.**, Cutler, M., & Lew-Williams, C. (2023). [<span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span>](https://mzettersten.github.io/assets/pdf/zettersten_cutler_lewwilliams_2023_cogsci.pdf) *Proceedings of the 45th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/cat-act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/p38g9/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
-
-**Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A.S.T., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (2021). [<span style="color: #00ab37">Peekbank: Exploring children’s word recognition through an open, large-scale repository for developmental eye-tracking data.</span>](https://mzettersten.github.io/assets/pdf/cogsci21a-sub1396-cam-i9.pdf){:target="\_blank"} *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*. <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ep693/){:target="\_blank"} 
-
-**Zettersten, M.**, Suffill, E., & Lupyan, G. (2020). [<span style="color: #00ab37">Nameability predicts subjective and objective measures of visual similarity.</span>](https://mzettersten.github.io/assets/pdf/cogsci20a-sub2413-cam-i9.pdf){:target="\_blank"} *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society. <a href="https://github.com/mzettersten/vcs" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
-
-Woodard, K., **Zettersten, M.**, & Pollak, S.D. (2020). [<span style="color: #00ab37">Developmental changes in children’s knowledge of facial configurations.</span>](https://mzettersten.github.io/assets/pdf/DevelopmentalChanges_0203_resubmission.pdf){:target="\_blank"} *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society. [accepted as a paper but published as an abstract] <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-**Zettersten, M.**, & Saffran, J. (2019). [<span style="color: #00ab37">Sampling to learn words: Adults and children sample words that reduce referential ambiguity.</span>](https://mzettersten.github.io/assets/pdf/cogsci19a-sub1579-cam-i9.pdf){:target="\_blank"} In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society* (pp. 1261-1267). Montreal, QB: Cognitive Science Society. <a href="https://osf.io/udmvh/?view_only=b9b8a986fd3a4235a073ec35d70a2266" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/crossAct" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-Koranda, M.\*, **Zettersten, M.\***, & McDonald, M. (2018). [<span style="color: #00ab37">Word frequency can affect what you choose to say.</span>](https://mzettersten.github.io/assets/pdf/koranda_5_12.pdf){:target="\_blank"} *Proceedings of the 40th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society. \*equal authorship <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
- 
-**Zettersten, M.**, Potter, C., & Saffran, J. (2018). [<span style="color: #00ab37">Tuning in to non-adjacent dependencies: How experience with learnable patterns supports learning novel regularities.</span>](https://mzettersten.github.io/assets/pdf/ZetterstenPotterSaffran_cogsci2018_final.pdf){:target="\_blank"} *Proceedings of the 40th Annual Conference of the Cognitive Science Society*. Austin, TX: Cognitive Science Society. <a href="https://osf.io/m3wn4/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/apg-non-adjacent" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
-**Zettersten, M.**, & Lupyan, G. (2018). [<span style="color: #00ab37">Using language to discover categories: more nameable features improve category learning.</span>](https://mzettersten.github.io/assets/pdf/ColorRuleEvolang_ZetterstenLupyan2017_final_deanonymized.pdf){:target="\_blank"} In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani, & T. Verhoef (Eds.), *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. NCU Press.
-
-### **DISSERTATION**
-
-**Zettersten, M.** (2020). [<span style="color: #00ab37">Seeking new words: Active word learning in infants and children.</span>](https://mzettersten.github.io/assets/pdf/zettersten_2020.pdf){:target="\_blank"} University of Wisconsin-Madison, Madison, WI. ProQuest Dissertations Publishing, 2020. 27994650.
+Danks, D., & **Rose, D.** (2010). <span style="color: #00ab37">Diversity in representations; uniformity in learning. </span> *Behavioral and Brain Sciences*, 33(2-3), 90-91. <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/diversity-in-representations-uniformity-in-learning/C4D293EAD24B032CEFFCDDF1B1280D00?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
+(NO PAPER IN FOLDER)
