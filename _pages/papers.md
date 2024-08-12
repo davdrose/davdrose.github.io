@@ -8,7 +8,9 @@ nav_order: 1
 
 #### **PREPRINTS**
 
-Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. <span style="color: #00ab37">From artifacts to human lives: Investigating the domain-generality of judgments about purposes.</span> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
+Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. From artifacts to human lives: Investigating the domain-generality of judgments about purposes.<a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
+
+<!-- Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. <span style="color: #00ab37">From artifacts to human lives: Investigating the domain-generality of judgments about purposes.</span> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"}  -->
 
 #### **PUBLICATIONS**
 
