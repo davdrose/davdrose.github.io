@@ -8,7 +8,7 @@ nav_order: 1
 
 #### **IN PREP**
 
-**Rose, D.**, Lowery, J., & Markman, E. (2024). Teleological essentialism in development. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
+**Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2024). Teleological essentialism in development. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
 **Rose, D.**, Zhang, S, Nichols, S, Markman, E, & Gerstenberg, T. (2024). Cause and burn in development. 
 
@@ -23,7 +23,7 @@ Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s b
 
 #### **PREPRINTS**
 
-**Rose, D.**, & Gerstenberg, T. (2024). [<span style="color: #00ab37">Teleological properties matter more in categorization.</span>]({{ '/assets/pdf/teleological_properties.pdf' | prepend: site.baseurl | prepend: site.url }})<a href="https://github.com/cicl-stanford/teleological_properties" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
+**Rose, D.**, & Gerstenberg, T. (2024). [<span style="color: #00ab37">Teleological properties matter more in categorization.</span>]({{ '/assets/pdf/teleological_properties.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/cicl-stanford/teleological_properties" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
 Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes.<a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
 
