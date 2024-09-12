@@ -33,8 +33,11 @@ I did my undergraduate work at <span style="color: #00ab37;">Ohio University</sp
 
 How we reason about objects and events is a central focus of my research. Specifically, two broad questions guide my research. How do we determine what makes something the kind of thing that it is? And how do we determine what causes what? I take an interdisciplinary approach to answering these questions, drawing on cognitive and developmental psychology, linguistics and philosophy, and make use of a variety of tools, including experiments with adults and children, as well as computational tools in linguistics, along with inspiration from computational models.  -->
 
+<!-- I am currently a graduate student in the Department of Psychology at Stanford University where I am advised by Tobias Gerstenberg and Ellen Markman. Before coming to Stanford, I earned a PhD in Philosophy from Rutgers University under the supervision of Jonathan Schaffer and Stephen Stich. 
+
+I am interested in uncovering the basic building blocks of human thought. Specifically, my work focuses on two such building blocks: objects and events. How do we determine what makes something the kind of thing that it is? And how do we determine what causes what? I take an interdisciplinary approach to answering these questions, drawing on cognitive and developmental psychology, linguistics, and philosophy. My research combines theoretical work with empirical studies in adults and children, using computational tools from linguistics and computer science.   -->
+
+
 I am currently a graduate student in the Department of Psychology at Stanford University where I am advised by Tobias Gerstenberg and Ellen Markman. Before coming to Stanford, I earned a PhD in Philosophy from Rutgers University under the supervision of Jonathan Schaffer and Stephen Stich. 
 
-I am interested in uncovering the basic building blocks of human thought. Specifically, my work focuses on two such building blocks: objects and events. How do we determine what makes something the kind of thing that it is? And how do we determine what causes what? I take an interdisciplinary approach to answering these questions, drawing on cognitive and developmental psychology, linguistics, and philosophy. My research combines theoretical work with empirical studies in adults and children, using computational tools from linguistics and computer science.  
-
-
+My research is on categorization and causation, and is guided by two broad questions. How do we determine what makes something the kind of thing that it is? And how do we determine what causes what? I take an interdisciplinary approach to answering these questions, drawing on cognitive and developmental psychology, linguistics, and philosophy. My research combines theoretical work with empirical studies in adults and children, using computational tools from linguistics and computer science.  
