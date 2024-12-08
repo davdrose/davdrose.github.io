@@ -14,6 +14,8 @@ nav_order: 1
 
 **Rose, D.**, Zhang, S, Gweon, H., & Gerstenberg, T. (2024). It’s the counterfactual thought that counts: counterfactual reasoning without counterfactual language. 
 
+**Rose, D.**, Zhang, S., & Gerstenberg, T. (2024). Teleological properties matter more in categorization. 
+
 Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). The evolution of teleological essentialism across language models. 
 
 Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s books, Netflix, and parent speech emphasize teleological properties when talking about categories. 
@@ -25,7 +27,7 @@ Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s b
 
 **Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2024). [<span style="color: #00ab37">Teleological essentialism in development.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
-**Rose, D.**, & Gerstenberg, T. (2024). [<span style="color: #00ab37">Teleological properties matter more in categorization.</span>]({{ '/assets/pdf/teleological_properties.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/cicl-stanford/teleological_properties" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
+<!-- **Rose, D.**, & Gerstenberg, T. (2024). [<span style="color: #00ab37">Teleological properties matter more in categorization.</span>]({{ '/assets/pdf/teleological_properties.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/cicl-stanford/teleological_properties" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  -->
 
 
 
