@@ -23,7 +23,6 @@ Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s b
 
 #### **PREPRINTS**
 
-<!-- **Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2024). Teleological essentialism in development. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  -->
 
 **Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2024). [<span style="color: #00ab37">Teleological essentialism in development.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
