@@ -8,23 +8,22 @@ nav_order: 1
 
 #### **IN PREP**
 
-**Rose, D.**, Zhang, S, Nichols, S, Markman, E, & Gerstenberg, T. (2024). Cause and burn in development. 
+**Rose, D.**, Zhang, S, Nichols, S, Markman, E, & Gerstenberg, T. (2025). Cause and burn in development. 
 
-**Rose, D.**, Nichols, S., & Gerstenberg, T. (2024). Teleology and diagnosticity. 
+**Rose, D.**, Nichols, S., & Gerstenberg, T. (2025). Teleology and diagnosticity. 
 
-**Rose, D.**, Zhang, S, Gweon, H., & Gerstenberg, T. (2024). It’s the counterfactual thought that counts: counterfactual reasoning without counterfactual language. 
+**Rose, D.**, Zhang, S, Gweon, H., & Gerstenberg, T. (2025). It’s the counterfactual thought that counts: counterfactual reasoning without counterfactual language. 
 
-**Rose, D.**, Zhang, S., & Gerstenberg, T. (2024). Teleological properties matter more in categorization. 
+**Rose, D.**, Zhang, S., & Gerstenberg, T. (2025). Teleological properties matter more in categorization. 
 
-Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). The evolution of teleological essentialism across language models. 
+Zhang, S, Gerstenberg, T, & **Rose, D**. (2025). The evolution of teleological essentialism across language models. 
 
-Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s books, Netflix, and parent speech emphasize teleological properties when talking about categories. 
 
 
 #### **PREPRINTS**
 
 
-**Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2024). [<span style="color: #00ab37">Teleological essentialism in development.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
+**Rose, D.**, Lowery, J., Zhang, S, & Markman, E. (2025). [<span style="color: #00ab37">Teleological essentialism in development.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
 <!-- **Rose, D.**, & Gerstenberg, T. (2024). [<span style="color: #00ab37">Teleological properties matter more in categorization.</span>]({{ '/assets/pdf/teleological_properties.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/cicl-stanford/teleological_properties" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  -->
 
@@ -33,6 +32,12 @@ Yu, S., Mao, P., Zhang, S, Gerstenberg, T, & **Rose, D**. (2024). Children’s b
 <!-- Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. <span style="color: #00ab37">From artifacts to human lives: Investigating the domain-generality of judgments about purposes.</span> <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"}  -->
 
 #### **PUBLICATIONS**
+
+**Rose, D.**, Hou, C., Nichols, S., Gerstenberg, T., & Markman, E. (2025). [<span style="color: #00ab37">Cause and fault in development.</span>]({{ '/assets/pdf/cause_fault_cog_sci.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47, No. 47). <a href="https://github.com/davdrose/cause_fault_dev" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/q5kzt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/e58br_v1){:target="\_blank"} 
+
+Yu, S., Tan, A., Zhang, S., Miao, P., Carlson, R., Gerstenberg, T., & **Rose, D.** (2025). [<span style="color: #00ab37">Generics revisited:
+Analyzing generalizations in children’s books and caregivers’ speech.</span>]({{ '/assets/pdf/generics_revisited_cogsci.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47, No. 47). <a href="https://github.com/sunnyych/Children_Speech_Books" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
+<!-- [[preprint]](https://osf.io/preprints/psyarxiv/e58br_v1){:target="\_blank"}  -->
 
 Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M., Gerstenberg, T., Knobe, J. (2024). From artifacts to human lives: Investigating the domain-generality of judgments about purposes. *Journal of Experimental Psychology: General*. <a href="https://osf.io/uj7vf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/osf/7enkr){:target="\_blank"} 
 
