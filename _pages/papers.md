@@ -33,7 +33,7 @@ Zhang, S, Gerstenberg, T, & **Rose, D**. (2025). The evolution of teleological e
 
 #### **PUBLICATIONS**
 
-**Rose, D.**, Zhang, S., Nichols, S., Markman, E., & Gerstenberg, T. (2025). [<span style="color: #00ab37">Broke or caused to break: How children map causal verbs to different causes across development.</span>]({{ '/assets/pdf/cause_burn_dev.pdf' | prepend: site.baseurl | prepend: site.url }}) *Nature Human Behavior*. <a href="https://github.com/davdrose/cause_burn_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/aw834_v2){:target="\_blank"} 
+**Rose, D.**, Zhang, S., Nichols, S., Markman, E., & Gerstenberg, T. (2025). [<span style="color: #00ab37">Broke or caused to break: How children map causal verbs to different causes across development.</span>]({{ '/assets/pdf/cause_burn_dev.pdf' | prepend: site.baseurl | prepend: site.url }}) *Nature Human Behavior*. <a href="https://github.com/davdrose/cause_burn_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/aw834_v4){:target="\_blank"} 
 
 **Rose, D.**, Hou, C., Nichols, S., Gerstenberg, T., & Markman, E. (2025). [<span style="color: #00ab37">Cause and fault in development.</span>]({{ '/assets/pdf/cause_fault_cog_sci.pdf' | prepend: site.baseurl | prepend: site.url }}) In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47, No. 47). <a href="https://github.com/davdrose/cause_fault_dev" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/q5kzt/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/e58br_v1){:target="\_blank"} 
 
