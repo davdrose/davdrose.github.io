@@ -23,6 +23,8 @@ Zhang, S, Gerstenberg, T, & **Rose, D**. (2025). The evolution of teleological e
 
 #### **PREPRINTS**
 
+Martin, F., **Rose, D.**, & Nichols, S. (2025). [<span style="color: #00ab37">Buring facts: thick and thin causatives.</span>]({{ '/assets/pdf/burning_facts.pdf' | prepend: site.baseurl | prepend: site.url }})
+
 **Rose, D.**, & Nichols, S. (2025). [<span style="color: #00ab37">Explanation by essence.</span>]({{ '/assets/pdf/explanation_by_essence.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/explanation_by_essence" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
 
 **Rose, D.**, Lowery, J., Zhang, S., & Markman, E. (2025). [<span style="color: #00ab37">Teleological essentialism in development.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> 
