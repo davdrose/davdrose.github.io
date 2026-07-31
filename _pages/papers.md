@@ -25,7 +25,7 @@ nav_order: 1
 **Rose, D.**, Nichols, S., & Gerstenberg, T. (2026). <span style="color: #00ab37">Teleology and diagnosticity.</span> *In preparation.*
 
 
-**Rose, D.**, & Nichols, S. (2026). [<span style="color: #00ab37">Explanation by essence.</span>]({{ '/assets/pdf/explanation_by_essence.pdf' | prepend: site.baseurl | prepend: site.url }}) *In preparation.* 
+**Rose, D.**, & Nichols, S. (2026). <span style="color: #00ab37">Explanation by essence.</span> *In preparation.* 
 
 #### **UNDER REVIEW**
 
