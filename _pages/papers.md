@@ -16,16 +16,13 @@ nav_order: 1
 #### **IN PREPARATION**
 
 
-**Rose, D.**, Zhou, S., Nichols, S., Gerstenberg, T., & Markman, E. (2026). <span style="color: #00ab37">Children distinguish different causes in determining responsibility.</span> *In preparation.*
+**Rose, D.**, Zhou, S., Nichols, S., Gerstenberg, T., & Markman, E. (2026). <span style="color: #00ab37">Children distinguish different causes in determining responsibility.</span> 
 
 
-**Rose, D.**, Li, L., Nichols, S., Gerstenberg, T., & Markman, E. (2026). <span style="color: #00ab37">How children understand different causes in reasoning about mental and non-mental states.</span> *In preparation.*
+**Rose, D.**, Li, L., Nichols, S., Gerstenberg, T., & Markman, E. (2026). <span style="color: #00ab37">How children understand different causes in reasoning about mental and non-mental states.</span> 
 
 
-**Rose, D.**, Nichols, S., & Gerstenberg, T. (2026). <span style="color: #00ab37">Teleology and diagnosticity.</span> *In preparation.*
-
-
-**Rose, D.**, & Nichols, S. (2026). <span style="color: #00ab37">Explanation by essence.</span> *In preparation.* 
+**Rose, D.**, & Nichols, S. (2026). <span style="color: #00ab37">Explanation by essence.</span> 
 
 #### **UNDER REVIEW**
 
@@ -34,6 +31,9 @@ Martin, F., **Rose, D.**, & Nichols, S. (2026). [<span style="color: #00ab37">Bu
 
 
 **Rose, D.**, Lowery, J., Zhang, S., & Markman, E. (2026). [<span style="color: #00ab37">Overcoming appearances: Teleological essentialism in children’s categorization.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+
+
+**Rose, D.**, Nichols, S., & Gerstenberg, T. (2026). <span style="color: #00ab37">Teleology beyond diagnosticity: Evidence for teleological essentialism.</span> 
 
 
 **Rose, D.**, Zhang, S., Bridgers, S., Gweon, H., & Gerstenberg, T. (2026). [<span style="color: #00ab37">Probing counterfactual thought without counterfactual language.</span>]({{ '/assets/pdf/counterfactuals_dev.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted. <a href="https://github.com/cicl-stanford/counterfactual_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
