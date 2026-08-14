@@ -30,7 +30,7 @@ nav_order: 1
 Martin, F., **Rose, D.**, & Nichols, S. (2026). [<span style="color: #00ab37">Burning facts: thick and thin causatives.</span>]({{ '/assets/pdf/burning_facts.pdf' | prepend: site.baseurl | prepend: site.url }}) Revise and resubmit at *Linguistics and Philosophy*.
 
 
-**Rose, D.**, Lowery, J., Zhang, S., & Markman, E. (2026). [<span style="color: #00ab37">Overcoming appearances: Teleological essentialism in children’s categorization.</span>]({{ '/assets/pdf/teleological_essentialism_development.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+**Rose, D.**, Lowery, J., Zhang, S., & Markman, E. (2026). [<span style="color: #00ab37">Overcoming appearances: Teleological essentialism in children’s categorization.</span>]({{ '/assets/pdf/overcoming_appearances_development.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted. <a href="https://github.com/davdrose/teleological_essentialism_development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
 
 **Rose, D.**, Nichols, S., & Gerstenberg, T. (2026). [<span style="color: #00ab37">Teleology beyond diagnosticity: Evidence for teleological essentialism.</span>]({{ '/assets/pdf/teleology_beyond_diagnosticity.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted.
